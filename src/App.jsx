@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import './App.css'
-import NewGoal from './assets/components/NewGoal/NewGoal';
-import Goals from './assets/components/Goals/Goals';
-import Header from './assets/components/Header/Header';
-import Footer from './assets/components/Footer/Footer';
+import NewGoal from './components/NewGoal/NewGoal';
+import Goals from './components/Goals/Goals';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 
 function App() {
   
