@@ -1,8 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Primeiro Projeto React
+Gestor de Metas simples em react
+## Antes
+![image](https://github.com/HenryNascimentoSilva/goal-app/assets/115803233/91de0a6f-2701-4190-bb9e-f153bd3cfe41)
+## Depois
+![image](https://github.com/HenryNascimentoSilva/goal-app/assets/115803233/2e1cc609-dbe3-4db4-bd8f-33bb3412ddc9)
+## TODO
+* Backend para armazenar os dados da lista
+* Função de deletar da lista
+* Navbar
