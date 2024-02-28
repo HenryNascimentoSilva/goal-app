@@ -1,5 +1,8 @@
 .new-goal{
-  padding: 0rem 2rem;
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .new-goal input {
@@ -9,6 +12,7 @@
   border-radius: 0.2rem;
   padding: 0.5rem;
   box-shadow: rgba(240, 240, 240, 0.15) 1.95px 1.95px 2.6px;
+  width: auto;
   
 }
 
@@ -20,5 +24,12 @@
   padding: 0.5rem;
   margin-left: 0.5rem;
   box-shadow: rgba(240, 240, 240, 0.144) 1.95px 1.95px 2.6px;
+  width: auto;
+}
+
+@media only screen and (max-width: 645px) {
+  .new-goal button {
+    margin: 1rem auto;
+  }
   
 }
